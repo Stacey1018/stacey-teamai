@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 提效周报"
+  short_description: "按周三汇报周期生成固定格式周报，自动核算节省工时与两项提效指标"
+  default_prompt: "使用 $ai-efficiency-weekly-report，根据我提供的需求、AI 辅助内容和工时生成本周 AI 提效周报。"
