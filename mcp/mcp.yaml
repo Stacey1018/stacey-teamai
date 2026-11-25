@@ -1,0 +1,8 @@
+servers:
+  - name: lanhu-design
+    description: 读取蓝湖设计稿结构、样式和图片资源
+    transport: stdio
+    command: npx
+    args:
+      - --yes
+      - "@healthlink/lanhu-design-mcp@latest"

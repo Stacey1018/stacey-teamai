@@ -1,0 +1,8 @@
+{
+  "claudeMdExcludes": [
+    "/Users/stacey/CLAUDE.md",
+    "/Users/stacey/.claude/CLAUDE.md",
+    "/Users/stacey/AGENTS.md",
+    "/Users/stacey/.claude/rules/**"
+  ]
+}
